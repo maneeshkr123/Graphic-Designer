@@ -1,0 +1,112 @@
+*{
+    margin: 0px;
+    font-family: Montserrat;
+}
+
+.header{
+    background-color: black;
+    height: 50px;
+
+}
+
+.header li{
+    text-decoration: none;
+    display: inline-block;
+    font-size: 25px;    
+    width: 15%;
+    color: rgb(212, 212, 212);
+    text-align: center;
+    padding: 10px;
+}
+
+.header li:hover{
+    background-color: orange;
+    color: white;
+}
+
+.smp .box{
+    margin-top: 50px;
+    display: inline-block;
+    padding: 5px;
+    border: 1px solid black;
+    border-radius: 10px;
+    margin-left: 50px;
+    
+}
+
+.smp .box img{
+    width: 300px;
+    height: 300px;
+    border-radius: 10px;
+}
+
+
+
+.logos .box{
+    margin-top: 50px;
+    display: inline-block;
+    padding: 5px;
+    border: 1px solid black;
+    border-radius: 10px;
+    margin-left: 50px;
+    
+}
+
+.logos .box img{
+    width: 300px;
+    height: 200px;
+    border-radius: 10px;
+}
+
+
+.posters .box{
+    margin-top: 50px;
+    display: inline-block;
+    padding: 5px;
+    border: 1px solid black;
+    border-radius: 10px;
+    margin-left: 50px;
+    
+}
+
+.posters .box img{
+    width: 350px;
+    height: 500px;
+    border-radius: 10px;
+}
+
+
+.cards .box{
+    margin-top: 50px;
+    display: inline-block;
+    padding: 5px;
+    border: 1px solid black;
+    border-radius: 10px;
+    margin-left: 50px;
+    
+}
+
+.cards .box img{
+    width: 500px;
+    height: 300;
+    border-radius: 10px;
+}
+
+footer{
+    background-color: black;
+    height: 400px;
+    color: white;
+}
+
+footer h3{
+    padding-top: 50px;
+    margin-left: 40px;
+    margin-bottom: 25px;
+}
+
+footer .services li{
+    font-size: 15px;
+    text-decoration: none;
+    display: block;
+    margin-bottom: 15px;
+}   
